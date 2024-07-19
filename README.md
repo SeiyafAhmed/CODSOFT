@@ -1,4 +1,4 @@
-# CODSOFT TASK 1: TO-DO LIST
+# TO-DO LIST
 ## Overview
 Welcome to the To-Do List project, a simple yet effective task management application. This project is developed using Python and the **ttkbootstrap** library to provide a visually appealing and user-friendly interface. The application allows users to manage their tasks effortlessly by adding, editing, deleting, and marking them as completed or pending.
 
@@ -17,7 +17,7 @@ Ensure you have Python installed on your machine. You can download it from here.
 
 1. Clone the repository:
 ```
-git clone https://github.com/SeiyafAhmed/CODSOFT_Task1.git
+git clone https://github.com/SeiyafAhmed/To-Do-List.git
 ```
 
 2. Install the required libraries:
@@ -43,7 +43,7 @@ python main.py
 
 
 License
-This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/CODSOFT_Task1/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/To-Do-List/blob/main/LICENSE) file for details.
 
 Contact
 For any questions or suggestions, please [contact us](mailto:seiyafahmed.ofc@gmail.com).
